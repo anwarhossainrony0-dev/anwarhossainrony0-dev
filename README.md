@@ -35,7 +35,7 @@ Explore my GoHighLevel portfolio and examples of my work.
 ### 2. GoHighLevel + n8n Lead Automation
 A project focused on connecting lead management workflows with n8n to streamline lead processing and follow-ups.
 
-🔗 [View GitHub Project](https://github.com/anwarhossainrony0-dev/n8n-ghl-lead-automation)
+🔗 [https://github.com/anwarhossainrony0-dev/ghl-n8n-lead-automation-portfolio)
 
 ## 🌐 Connect With Me
 
