@@ -42,8 +42,7 @@ A project focused on connecting lead management workflows with n8n to streamline
 - **Portfolio Website:** [Visit My Website](https://anwarhossainrony.netlify.app/)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/md-anwar-hossain-rony)
 - **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801879968808)
-- **Email:** mdanwarhossainrony99@gmail.com
-
+- **Email:** anwarhossainrony0@gmail.com
 ---
 
 ### 💡 My Goal
